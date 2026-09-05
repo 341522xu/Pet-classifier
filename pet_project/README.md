@@ -2,7 +2,7 @@
 
 **姓名**：xuqiang
 **学号**：W125301182  
-**GitHub**：https://github.com/xuqiang/pet-classifier
+**GitHub**：https://github.com/341522xu/Pet-classifier
 
 ## 项目简介
 
